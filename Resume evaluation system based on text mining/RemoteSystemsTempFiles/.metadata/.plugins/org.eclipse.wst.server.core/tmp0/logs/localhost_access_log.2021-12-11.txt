@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Dec/2021:10:49:10 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:49:12 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:49:41 +0530] "GET /VTJDM01_2019/JS_login.jsp HTTP/1.1" 200 3320
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:49:46 +0530] "POST /VTJDM01_2019/JS_logindb.jsp HTTP/1.1" 200 408
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:49:47 +0530] "GET /VTJDM01_2019/JS_login.jsp HTTP/1.1" 200 3320
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:49:51 +0530] "GET /VTJDM01_2019/Admin_login.jsp HTTP/1.1" 200 3145
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:03 +0530] "POST /VTJDM01_2019/Admin_logindb.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:03 +0530] "GET /VTJDM01_2019/Admin_panel.jsp HTTP/1.1" 200 8393
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:06 +0530] "GET /VTJDM01_2019/Profile_from_robot.jsp HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:12 +0530] "GET /VTJDM01_2019/JS_viewpro.jsp HTTP/1.1" 200 9501
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:27 +0530] "GET /VTJDM01_2019/Robot_login.jsp HTTP/1.1" 200 3143
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:38 +0530] "POST /VTJDM01_2019/Robologin_db.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:38 +0530] "GET /VTJDM01_2019/Robot_home1.jsp HTTP/1.1" 200 6007
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:50:58 +0530] "GET /VTJDM01_2019/Searching?admin=no&txt_skills=java&skilltype=All HTTP/1.1" 200 11094
+0:0:0:0:0:0:0:1 - - [11/Dec/2021:10:51:14 +0530] "GET /VTJDM01_2019/profiles.jsp?name=projects%40vertilinktech.com HTTP/1.1" 200 5235
